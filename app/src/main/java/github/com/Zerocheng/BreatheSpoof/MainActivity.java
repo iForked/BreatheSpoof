@@ -11,6 +11,11 @@ import android.view.KeyEvent;
 import android.view.Window;
 import android.view.WindowManager;
 
+/**
+Author:Zero
+E-Mail:2767832980@qq.com
+*/
+
 public class MainActivity extends Activity
 	{
 		@Override//这里屏蔽了多任务键，应该有的手机屏蔽不了吧
